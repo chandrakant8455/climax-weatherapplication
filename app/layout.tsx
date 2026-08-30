@@ -7,7 +7,7 @@ const geistSans = Geist({ subsets: ['latin'], variable: '--font-geist-sans' })
 const geistMono = Geist_Mono({ subsets: ['latin'], variable: '--font-geist-mono' })
 
 export const metadata: Metadata = {
-  title: 'Aua — Liquid Glass Weather',
+  title: 'Aura — Liquid Glass Weather',
   description: 'A calm, crystal-clear weather app with live forecasts and a liquid glass interface.',
   generator: 'v0.app',
   icons: {
