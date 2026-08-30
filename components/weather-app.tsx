@@ -68,7 +68,7 @@ export function WeatherApp() {
       <main className="mx-auto flex min-h-dvh w-full max-w-md flex-col gap-4 px-4 pb-10 pt-6">
         <header className="flex items-center justify-between">
           <h1 className="text-xl font-semibold tracking-tight text-white">
-            Aura<span className="text-white/50"> weather</span>
+            ClimaX<span className="text-white/50"> weather by CKJ</span>
           </h1>
         </header>
 
